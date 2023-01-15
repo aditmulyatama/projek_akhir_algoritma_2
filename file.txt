@@ -1,0 +1,4 @@
+1	belajar cpp dasar	Wahyu Candra	erlangga	350	2014
+2	kalkulus dan geometri	Edwin J Purcell	Erlangga	750	2020
+3	ilmu pengetahuan alam	Leony Lidya	Erlangga	800	2015
+4	ilmu pengetahuan sosial	Adit Mulyatama	Sinar Dunia	200	2017
